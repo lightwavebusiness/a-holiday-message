@@ -1,0 +1,16 @@
+{
+  "1": {
+    "names": "Mum",
+    "image": "images/merryxmas2.png",
+    "background": "images/bg2.jpg"
+  },
+  "2": {
+    "names": "Dad",
+    "image": "images/merryxmas2.png",
+    "background": "images/bg4.jpg"
+  },
+  "3": {
+    "names": "Bob Ross and Jazza",
+    "image": "images/merryxmas3.png"
+  }
+}
